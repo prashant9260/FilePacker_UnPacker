@@ -1,4 +1,4 @@
-FilePacker_UnPacker
+FilePacker & UnPacker with Encryption 
 
 Pack and unpack files easily with a simple Java GUI.
 
